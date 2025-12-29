@@ -33,7 +33,7 @@ export default function Portfolio() {
     },
     {
       title: "Montessori App",
-      description: "Developed a responsive web application that provides educational resources and interactive activities for children based on Montessori principles. Implemented a user-friendly interface with engaging content and interactive features.",
+      description: "Developed a responsive mobile application that provides educational resources and interactive activities for children based on Montessori principles. Implemented a user-friendly interface with engaging content and interactive features.",
       technologies: ["React", "Android Studio", "XCode", "React Native", "Expo"],
       liveUrl: "",
       // githubUrl: "https://github.com/yourusername/project3",
